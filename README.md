@@ -1,5 +1,3 @@
-# 10c
-
 A full-stack community blogging platform built with Next.js 16, MongoDB, and Backblaze B2. Users can register, create posts with images, like posts from other users, and leave comments.
 
 ---
